@@ -1,16 +1,53 @@
-## Hi there 👋
+# Hi, I'm Wiktoria 👋
 
-<!--
-**wszitenhelm/wszitenhelm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Blockchain engineer focused on smart contracts, cross-chain infrastructure, and distributed systems.
 
-Here are some ideas to get you started:
+Previously a software engineer at **J.P. Morgan**, where I worked on backend services, APIs, and cloud infrastructure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technologies
+
+**Blockchain**
+- Solidity
+- Rust (Anchor)
+- Ethereum
+- Solana
+- Cross-chain messaging
+- Chainlink CCIP
+
+**Programming**
+- Rust
+- Solidity
+- TypeScript
+- JavaScript
+- Python
+- Java
+
+**Backend & Infrastructure**
+- Spring Boot
+- REST APIs
+- PostgreSQL
+- AWS
+- Terraform
+
+## 🧠 Interests
+
+- Zero-knowledge proofs
+- Cryptography in smart contracts
+- Cross-chain interoperability
+- Secure smart contract architecture
+
+## 🚀 Current Focus
+
+Exploring **cross-chain messaging systems, ZK-based privacy mechanisms, and decentralized infrastructure**.
+
+## 🌐 Links
+
+Portfolio  
+https://wszitenhelm.vercel.app
+
+LinkedIn  
+https://www.linkedin.com/in/wszitenhelm/
+
+---
+
+⭐ I enjoy building experimental blockchain systems and collaborating with other builders at hackathons.
