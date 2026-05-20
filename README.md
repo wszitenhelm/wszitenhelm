@@ -1,6 +1,6 @@
 # Hi, I'm Wiktoria 👋
 
-Blockchain engineer focused on smart contracts, cross-chain infrastructure, and distributed systems.
+Software Engineer focused on smart contracts, cross-chain infrastructure, and distributed systems.
 
 Previously a software engineer at **J.P. Morgan**, where I worked on backend services, APIs, and cloud infrastructure.
 
